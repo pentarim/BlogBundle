@@ -15,10 +15,10 @@
     "require": {
         "php": ">=5.3.3",
         "symfony/framework-bundle": "~2.2",
-        "symfony-cmf/core-bundle": "1.0.*",
+        "symfony-cmf/core-bundle": "1.2.*",
         "symfony-cmf/routing-auto-bundle": "1.0.*",
-        "doctrine/phpcr-bundle": "1.0.*",
-        "doctrine/phpcr-odm": "1.0.*"
+        "doctrine/phpcr-bundle": "1.2.*",
+        "doctrine/phpcr-odm": "1.2.*"
     },
     "require-dev": {
         "symfony-cmf/testing": "1.2.*",
